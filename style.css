@@ -1,0 +1,27 @@
+*{
+  opacity: 1;
+  top: 0px;
+  left: 0px;
+  
+  }
+.heading{
+   align-content: center;
+}
+h1{
+    background-image: linear-gradient(45deg, #553c9a, #ee4b2b);
+    color: transparent;
+  background-clip: text;
+
+}
+.bodyDiv{
+  line-height: 25px;
+} 
+.flex-container {
+    display: flex;
+    /* background-color: lightskyblue; */
+    background: linear-gradient(to right, lightskyblue,rgb(31, 117, 171), rgb(4, 103, 165));
+    justify-content: space-around;
+    border: 5px solid rgb(114, 113, 113);
+    border-radius: 30px;
+    padding: 20px;
+  }
